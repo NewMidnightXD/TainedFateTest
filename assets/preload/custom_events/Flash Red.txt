@@ -1,0 +1,3 @@
+Flashing cam with sabotage.
+
+Value 1: Flash duration (.5 default)

@@ -1,0 +1,5 @@
+Sets camera bumping per beat.
+Retain the previous value if left it blank.
+
+Value 1: Zoom multiply
+Value 2: Beat (0 to turn off bumping)
