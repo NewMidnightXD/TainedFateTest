@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "black 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-42
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "black 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "black 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "black 3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "black 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-36
+			],
+			"anim": "pre_death",
+			"fps": 8,
+			"name": "black pre",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				32
+			],
+			"anim": "firstDeath",
+			"fps": 14,
+			"name": "black kill",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/black/des",
+	"position": [
+		-1040,
+		490
+	],
+	"healthicon": "black",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		132,
+		214
+	],
+	"camera_position": [
+		90,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7,
+	"_editor_isPlayer": true
+}

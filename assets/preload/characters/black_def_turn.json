@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "black_qustls idle00"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "turn",
+			"loop": false,
+			"name": "black_qustls qistls"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/black/def_turn",
+	"position": [
+		-322,
+		78
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		132,
+		234
+	],
+	"camera_position": [
+		-513,
+		-46
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

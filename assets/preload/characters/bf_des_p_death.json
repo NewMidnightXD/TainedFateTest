@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				0
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bfdeath death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "pre_death",
+			"indices": [],
+			"name": "bfdeath pre_death"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf/death/p",
+	"position": [
+		-158,
+		602
+	],
+	"healthicon": "bf_des",
+	"flip_x": true,
+	"healthbar_colors": [
+		74,
+		193,
+		232
+	],
+	"camera_position": [
+		-300,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 1.65,
+	"_editor_isPlayer": true
+}

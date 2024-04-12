@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "B_IDLE"
+		},
+		{
+			"offsets": [
+				-43,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "B_DOWN"
+		},
+		{
+			"offsets": [
+				21,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "B_UP"
+		},
+		{
+			"offsets": [
+				518,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B_RIGHT"
+		},
+		{
+			"offsets": [
+				-197,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B_LEFT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf/des3",
+	"position": [
+		880,
+		298
+	],
+	"healthicon": "bf_des",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		193,
+		232
+	],
+	"camera_position": [
+		-590,
+		-100
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1.65,
+	"_editor_isPlayer": false
+}
