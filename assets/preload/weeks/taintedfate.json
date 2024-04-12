@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Defeat",
+			"icon",
+			[
+				47,
+				44,
+				59
+			]
+		],
+		[
+			"Destruction",
+			"bf_F",
+			[
+				74,
+				193,
+				232
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Tainted",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "taintedfate",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
