@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sceneBk.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="black_rad idle0000" x="1912" y="1076" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad down0000" x="1912" y="1614" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad down0001" x="1912" y="538" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad down0002" x="956" y="0" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad right0000" x="1912" y="0" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad right0001" x="0" y="0" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad right0002" x="0" y="1614" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad left0000" x="0" y="538" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad left0001" x="956" y="538" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad left0002" x="0" y="1076" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad up0000" x="956" y="1076" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad up0001" x="956" y="1614" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+	<SubTexture name="black_rad up0002" x="0" y="2152" width="956" height="538" frameX="0" frameY="0" frameWidth="956" frameHeight="538"/>
+</TextureAtlas>

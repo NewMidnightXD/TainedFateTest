@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="des.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF_D idle0000" x="957" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D idle0001" x="1914" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D idle0002" x="0" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D idle0003" x="957" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D down0000" x="0" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D down0001" x="0" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D down0002" x="1914" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D right0000" x="0" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D right0001" x="2871" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D right0002" x="1914" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D left0000" x="957" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D left0001" x="957" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D left0002" x="1914" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D up0000" x="957" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D up0001" x="1914" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_D up0002" x="0" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+</TextureAtlas>

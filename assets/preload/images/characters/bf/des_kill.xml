@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="des_kill.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="des_pre_kill0000" x="1705" y="1096" width="313" height="309" frameX="65" frameY="115" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0001" x="1705" y="791" width="318" height="305" frameX="69" frameY="111" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0002" x="1406" y="1119" width="290" height="287" frameX="26" frameY="93" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0003" x="1113" y="1119" width="293" height="292" frameX="2" frameY="98" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0004" x="2036" y="0" width="264" height="285" frameX="-42" frameY="92" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0005" x="803" y="1564" width="266" height="289" frameX="-45" frameY="96" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0006" x="0" y="1564" width="268" height="294" frameX="-45" frameY="101" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_pre_kill0007" x="268" y="1564" width="268" height="294" frameX="-45" frameY="101" frameWidth="318" frameHeight="309"/>
+	<SubTexture name="des_kill0000" x="536" y="1564" width="267" height="291" frameX="197" frameY="90" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des_kill0001" x="1069" y="1564" width="275" height="279" frameX="201" frameY="78" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des_kill0002" x="1344" y="1564" width="280" height="274" frameX="225" frameY="73" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des_kill0003" x="560" y="348" width="332" height="284" frameX="314" frameY="81" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des_kill0004" x="722" y="1119" width="391" height="301" frameX="376" frameY="96" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des_kill0005" x="0" y="348" width="560" height="288" frameX="545" frameY="83" frameWidth="560" frameHeight="301"/>
+	<SubTexture name="des2_pre_kill0000" x="980" y="636" width="392" height="385" frameX="150" frameY="375" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0001" x="1705" y="0" width="331" height="387" frameX="138" frameY="378" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0002" x="1705" y="387" width="314" height="404" frameX="120" frameY="395" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0003" x="1387" y="473" width="296" height="437" frameX="102" frameY="427" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0004" x="1387" y="0" width="318" height="473" frameX="76" frameY="463" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0005" x="653" y="636" width="327" height="481" frameX="79" frameY="471" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0006" x="327" y="636" width="326" height="483" frameX="77" frameY="473" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_pre_kill0007" x="0" y="636" width="327" height="483" frameX="78" frameY="473" frameWidth="392" frameHeight="483"/>
+	<SubTexture name="des2_kill0000" x="1058" y="0" width="329" height="481" frameX="231" frameY="469" frameWidth="542" frameHeight="481"/>
+	<SubTexture name="des2_kill0001" x="0" y="1119" width="331" height="445" frameX="267" frameY="433" frameWidth="542" frameHeight="481"/>
+	<SubTexture name="des2_kill0002" x="331" y="1119" width="391" height="368" frameX="393" frameY="354" frameWidth="542" frameHeight="481"/>
+	<SubTexture name="des2_kill0003" x="0" y="0" width="516" height="348" frameX="515" frameY="335" frameWidth="542" frameHeight="481"/>
+	<SubTexture name="des2_kill0004" x="516" y="0" width="542" height="325" frameX="542" frameY="312" frameWidth="542" frameHeight="481"/>
+</TextureAtlas>

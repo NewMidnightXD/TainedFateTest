@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kill.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="kill emdwkd0000" x="1086" y="0" width="1128" height="538" frameX="0" frameY="0" frameWidth="1128" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0001" x="0" y="0" width="1086" height="588" frameX="0" frameY="0" frameWidth="1086" frameHeight="588"/>
+	<SubTexture name="kill emdwkd0002" x="0" y="588" width="1041" height="538" frameX="0" frameY="0" frameWidth="1041" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0003" x="0" y="1664" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0004" x="1041" y="588" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0005" x="0" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0006" x="957" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0007" x="0" y="1664" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0008" x="1041" y="588" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0009" x="0" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill emdwkd0010" x="957" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill idle0000" x="0" y="1664" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill idle0001" x="1041" y="588" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill idle0002" x="0" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill idle0003" x="957" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill xhlwkd0000" x="0" y="588" width="1041" height="538" frameX="0" frameY="0" frameWidth="1041" frameHeight="538"/>
+	<SubTexture name="kill xhlwkd0001" x="0" y="0" width="1086" height="588" frameX="0" frameY="0" frameWidth="1086" frameHeight="588"/>
+	<SubTexture name="kill xhlwkd0002" x="1086" y="0" width="1128" height="538" frameX="0" frameY="0" frameWidth="1128" frameHeight="538"/>
+	<SubTexture name="kill xhlwkd0003" x="1086" y="538" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="kill xhlwkd0004" x="1086" y="538" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

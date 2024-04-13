@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ap.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="black_4 idle0000" x="1916" y="1617" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 idle0001" x="0" y="539" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 idle0002" x="2874" y="2695" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 idle0003" x="1916" y="2156" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 idle0004" x="0" y="0" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 idle0005" x="2874" y="0" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 down0000" x="958" y="539" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 down0001" x="0" y="1078" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 right0000" x="1916" y="1078" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 right0001" x="958" y="0" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 left0000" x="958" y="1078" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 left0001" x="2874" y="539" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 up0000" x="1916" y="0" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 up0001" x="0" y="1617" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_right0000" x="2874" y="1078" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_right0001" x="0" y="2156" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_right0002" x="2874" y="2156" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_down0000" x="1916" y="539" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_down0001" x="958" y="2156" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_down0002" x="958" y="2695" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_left0000" x="1916" y="2695" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_left0001" x="2874" y="1617" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_left0002" x="958" y="1617" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_up0000" x="1916" y="0" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_up0001" x="0" y="1617" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+	<SubTexture name="black_4 ALT_up0002" x="0" y="2695" width="958" height="539" frameX="0" frameY="0" frameWidth="958" frameHeight="539"/>
+</TextureAtlas>

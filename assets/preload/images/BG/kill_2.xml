@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kill_2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="kill_2 emdwkd0000" x="1086" y="0" width="1128" height="538" frameX="0" frameY="0" frameWidth="1128" frameHeight="538"/>
+	<SubTexture name="kill_2 emdwkd0001" x="0" y="0" width="1086" height="588" frameX="0" frameY="0" frameWidth="1086" frameHeight="588"/>
+	<SubTexture name="kill_2 emdwkd0002" x="0" y="588" width="1041" height="538" frameX="0" frameY="0" frameWidth="1041" frameHeight="538"/>
+	<SubTexture name="kill_2 emdwkd0003" x="957" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill_2 emdwkd0004" x="0" y="1664" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill_2 emdwkd0005" x="1041" y="588" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="kill_2 emdwkd0006" x="0" y="1126" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+</TextureAtlas>
