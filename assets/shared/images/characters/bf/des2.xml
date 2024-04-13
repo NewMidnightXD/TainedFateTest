@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="des2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF_DE idle0000" x="2871" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0001" x="0" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0002" x="957" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0003" x="0" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0004" x="957" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0005" x="2871" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0006" x="2871" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE idle0007" x="2871" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0000" x="957" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0001" x="957" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0002" x="0" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0003" x="2871" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0004" x="957" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE down0005" x="1914" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE right0000" x="0" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE right0001" x="1914" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE right0002" x="1914" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE right0003" x="1914" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE left0000" x="1914" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE left0001" x="1914" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE left0002" x="0" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE left0003" x="2871" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE up0000" x="957" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE up0001" x="0" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE up0002" x="0" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="BF_DE up0003" x="957" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+</TextureAtlas>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="def_turn.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="black_qustls qistls0000" x="0" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0001" x="3828" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0002" x="0" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0003" x="2871" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0004" x="0" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0005" x="3828" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0006" x="957" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0007" x="0" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0008" x="1914" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0009" x="957" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0010" x="2871" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0011" x="957" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0012" x="1914" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0013" x="3828" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0014" x="1914" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0015" x="957" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0016" x="2871" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0017" x="1914" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0018" x="2871" y="1614" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0019" x="0" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0020" x="957" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0021" x="2871" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0022" x="1914" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0023" x="0" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0024" x="1914" y="1076" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0025" x="0" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0026" x="957" y="2152" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0027" x="1914" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0028" x="957" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0029" x="2871" y="0" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0030" x="3828" y="538" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls qistls0031" x="2871" y="2690" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+	<SubTexture name="black_qustls idle0000" x="0" y="3228" width="957" height="538" frameX="0" frameY="0" frameWidth="957" frameHeight="538"/>
+</TextureAtlas>

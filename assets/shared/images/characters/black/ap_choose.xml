@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ap_choose.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="pre_flower0000" x="474" y="0" width="283" height="471" frameX="-50" frameY="416" frameWidth="283" frameHeight="474"/>
+	<SubTexture name="pre_flower0001" x="1317" y="469" width="271" height="474" frameX="-58" frameY="419" frameWidth="283" frameHeight="474"/>
+	<SubTexture name="pre_flower0002" x="1593" y="0" width="259" height="473" frameX="-67" frameY="418" frameWidth="283" frameHeight="474"/>
+	<SubTexture name="pre_flower0003" x="1593" y="473" width="259" height="472" frameX="-68" frameY="417" frameWidth="283" frameHeight="474"/>
+	<SubTexture name="flower0000" x="1593" y="945" width="259" height="472" frameX="-70" frameY="415" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0001" x="1317" y="0" width="276" height="469" frameX="-62" frameY="412" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0002" x="840" y="611" width="279" height="469" frameX="-57" frameY="412" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0003" x="1037" y="0" width="280" height="471" frameX="-56" frameY="414" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0004" x="757" y="0" width="280" height="471" frameX="-56" frameY="414" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0005" x="560" y="611" width="280" height="471" frameX="-56" frameY="414" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="flower0006" x="280" y="611" width="280" height="471" frameX="-56" frameY="414" frameWidth="280" frameHeight="472"/>
+	<SubTexture name="pre_denied0000" x="0" y="611" width="280" height="471" frameX="-56" frameY="413" frameWidth="280" frameHeight="471"/>
+	<SubTexture name="denied0000" x="0" y="1082" width="357" height="344" frameX="245" frameY="177" frameWidth="474" frameHeight="344"/>
+	<SubTexture name="denied0001" x="357" y="1082" width="376" height="309" frameX="271" frameY="152" frameWidth="474" frameHeight="344"/>
+	<SubTexture name="denied0002" x="0" y="297" width="438" height="314" frameX="344" frameY="155" frameWidth="474" frameHeight="344"/>
+	<SubTexture name="denied0003" x="0" y="0" width="474" height="297" frameX="304" frameY="140" frameWidth="474" frameHeight="344"/>
+</TextureAtlas>
