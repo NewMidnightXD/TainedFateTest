@@ -168,12 +168,12 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bf/og",
+	"image": "characters/nothing",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "nothing",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
