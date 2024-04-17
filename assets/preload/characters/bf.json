@@ -168,12 +168,12 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/nothing",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "nothing",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
