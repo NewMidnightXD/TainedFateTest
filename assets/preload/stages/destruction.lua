@@ -118,15 +118,6 @@ function onDestroy() -- 장면 제거
 	setWindowTitle(defaultTitle)
 end
 
-local playVideo = true
-function onEndSong()
-	if playVideo then
-		playVideo = false
-		startVideo("dumb")
-		return Function_Stop
-	end
-end
-
 local canDeath = false
 local stopMusic = false
 function onGameOver() -- 뒤졌을 때
